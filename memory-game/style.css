@@ -1,0 +1,26 @@
+body {
+  text-align: center; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#game div {
+  margin: 10px;
+  display: inline-block;
+}
+
+img {
+  margin: 5px;
+  cursor: pointer;
+}
+
+.start {
+  margin: auto;
+  width: 200px;
+  height: 43px;
+  border: 2px solid pink;
+  padding-top: 18px;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 21px;
+  cursor: pointer; 
+} 
